@@ -28,3 +28,4 @@ Per `hr-security-policy.md`: grant on documented need; revoke all access on the 
 
 ## Evidence
 Collaborator snapshots, branch-protection snapshots, dated quarterly review records.
+x
